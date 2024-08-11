@@ -1,5 +1,5 @@
-
-p {
+p{
     color: red;
-    font-style: italic;
-    }
+    font-size: large;
+    column-count: inherit;
+}
